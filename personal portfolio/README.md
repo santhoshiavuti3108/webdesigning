@@ -1,4 +1,12 @@
-# Personal Portfolio Website
+## OASIS INFOBYTE
+
+## WEB DEVELOPMENT INTERNSHIP
+
+# AUTHOR :  Avuti Santhoshi
+
+
+
+# Task 2 : Personal Portfolio Website
 
 ## 📌 Project Overview
 
