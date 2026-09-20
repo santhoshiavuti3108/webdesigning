@@ -100,7 +100,6 @@ Landing-Page/
 
 ## project link
 
-This the website
 file:///c%3A/Users/Bhanu%20Prakash/Documents/oasis%20web%20designing/landing%20page/index.html
 
 ---

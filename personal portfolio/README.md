@@ -173,7 +173,7 @@ The navigation menu allows visitors to quickly move between different sections o
 4. The portfolio website will be displayed.
 
 ## project link
-This is the website
+
 
 file:///c%3A/Users/Bhanu%20Prakash/Documents/oasis%20web%20designing/personal%20portfolio/index2.html
 
